@@ -13,7 +13,6 @@ char *my_strconcat(char *a, char *b)
         for (i = 0; b[i] != '\0'; i++, size++)
             ;
 
-        --size;
 
         ret = (char*)malloc(size * sizeof(char));
 
@@ -24,6 +23,7 @@ char *my_strconcat(char *a, char *b)
             ret[i] = b[size];
 
         ret[i] = '\0';
+
     }
     else if (a)
         ret = a;

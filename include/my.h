@@ -4,7 +4,6 @@
 #include <unistd.h>
 #include <limits.h>
 #include <stdlib.h>
-#include <stdio.h>
 
 #ifndef NULL
 #define NULL ((void *)0)
@@ -21,7 +20,6 @@ int my_find(char *, char);
 int my_rfind(char *, char);
 int my_strlen(char *);
 int my_revstr(char *);
-/* New Stuff */
 char *my_strindex(char *, char);
 char *my_strrindex(char *, char);
 char *my_strcat(char *, char *);
@@ -36,4 +34,5 @@ char *my_vect2str(char **);
 char **my_str2vect(char *);
 char *my_strreplace(char *, char *, char *);
 int my_atoi(char *);
+int my_maxstrlen(char **, int, int);
 #endif
