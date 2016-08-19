@@ -4,6 +4,9 @@ This repository contains code samples including samples in Java, C++, C, and And
 ## Java
 This project contains a stack and a queue and various commands such as push, pop, enqueue, dequeue, etc. to manipulate the data structures.
 
+## C
+These projects use various system calls to implement programs like a file selector project implemented in a terminal, a client/server chat program using sockets, or a shell with limited functionality. All of these programs rely on a user-defined string library which replaces the UNIX standard string library.
+
 ## C++
 This project contains a self balancing binary search tree implemented using AVL Trees. It contains various commands such as add, delete, and find to manipulate the data structure.
 

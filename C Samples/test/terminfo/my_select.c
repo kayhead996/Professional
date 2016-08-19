@@ -44,6 +44,9 @@ int main(int argc, char *argv[])
 
 
     }
+    else {
+        my_str("Usage ./my_select <foldername>\n");
+    }
 
     return 0;
 }
