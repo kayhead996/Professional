@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

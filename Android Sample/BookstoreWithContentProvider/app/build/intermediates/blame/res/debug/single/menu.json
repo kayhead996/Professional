@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/res/merged/debug/menu/bookstore_context_menu.xml",
+        "source": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/src/main/res/menu/bookstore_context_menu.xml"
+    },
+    {
+        "merged": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/res/merged/debug/menu/checkout_menu.xml",
+        "source": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/src/main/res/menu/checkout_menu.xml"
+    },
+    {
+        "merged": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/res/merged/debug/menu/bookstore_menu.xml",
+        "source": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/src/main/res/menu/bookstore_menu.xml"
+    },
+    {
+        "merged": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/build/intermediates/res/merged/debug/menu/addbook_menu.xml",
+        "source": "/home/keyur/Documents/School/Spring 2016/CS 522/Assignment4/BookstoreWithContentProvider/app/src/main/res/menu/addbook_menu.xml"
+    }
+]
