@@ -1,0 +1,12 @@
+1) To run the neural net, first install matplotlib, sklearn, and numpy
+2) It can be ran with the inputs I used by running "python3 neural_network.py --noinput"
+3) To specify inputs through user input, just run "python3 neural_network.py" and enter the data as follows:
+    size: int value > 0
+    number of hidden neurons: int value > 0
+    dataset number: either a 1 or 2
+    early stop: 1 to use the stopping method using the test data as specified in the homework doc, or 0 to specify the number of iterations
+    number of iterations (optional): number of iterations to run
+    learning rate: float value (0.0004 recommended)
+    regularizer: float value (0.1 recommended)
+    
+

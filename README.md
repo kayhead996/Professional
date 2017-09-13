@@ -12,3 +12,7 @@ This project contains a self balancing binary search tree implemented using AVL 
 
 ## Android
 This project is a bookstore app which is implented using ContentProviders in Android. All the work, however, is done on the UI thread. This app allows users to add books to a cart, generates random IDs and prices for books, saves them to a SQLlite database table and gives the options for checkout.
+
+## Python
+This project is a neural network for binary classification implemented using Python's numpy and matplotlib libaries.
+The neural network implements L2 regulization and a variable learning rate
