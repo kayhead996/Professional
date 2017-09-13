@@ -14,4 +14,4 @@ This project is a file system simulator using a general tree to store the direct
 This project is a bookstore app which is implented using ContentProviders in Android. All the work, however, is done on the UI thread. This app allows users to add books to a cart, generates random IDs and prices for books, saves them to a SQLlite database table and gives the options for checkout.
 
 ## Python
-This project is a neural network for binary classification which implements L2 regularization and a learning rate
+This project is a neural network for binary classification using matplotlib, numpy, and sklearn. The neural network implements L2 regularization and a learning rate
